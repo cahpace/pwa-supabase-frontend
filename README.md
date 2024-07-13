@@ -1,1 +1,1 @@
-# pwa-supabase-frontend
+#A pwa project to practice frontend deploy on **firebase** and backend on **Supabase**
